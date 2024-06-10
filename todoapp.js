@@ -10,7 +10,7 @@ app.use(express.json());
 let todos = [{
     id : "1",
     task : "Wash clothes ",
-    completed :  false
+    completed :  true
 }];
 
 
